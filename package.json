@@ -1,6 +1,6 @@
 {
   "name": "route-check-vscode",
-  "displayName": "route-check-vscode",
+  "displayName": "Route Check",
   "description": "Check if links are dead or alive, directly from VS Code",
   "version": "0.0.1",
   "engines": {
